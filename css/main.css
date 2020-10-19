@@ -1,0 +1,53 @@
+body {
+	font-family: Arial, Taxoma, sans-serif;
+	margin: 0;
+	padding: 0;
+	background: #000;
+}
+*{
+	box-sizing: border-box;
+}
+
+#conteiner {
+	background: #ffffff;
+	margin: 0 14.5%;
+	padding: 5px;
+	padding-bottom: 20%;
+}
+h1{
+	font-size: 16pt;
+}
+h1,span{
+	color: red;
+}
+.block{
+	font-size: 10px;
+	color: #ffffff;
+	width: 70px;
+	background: blue;
+	margin-bottom: 60px;
+	font-style: normal;
+}
+ h2{
+ 	color: #ffffff;
+ 	background: green;
+ 	font-size: 16px;
+ 	padding: 5px;
+ }
+.new h2{
+	padding: 30px 20px;	
+	text-indent: 30px;
+}
+
+.new p{
+	text-indent: 100px;
+}
+p{
+	font-size: 11px;
+}
+.new_1 li{
+	border: 1px solid #000;
+}
+a{
+	font-size: 11px;
+}
